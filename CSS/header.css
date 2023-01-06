@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: sandybrown;
+    height: 100px;
+    padding: 0 2rem;
+}
+
+.gnb {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
